@@ -1,6 +1,6 @@
-# <font face="Trebuchet"> Hi There 🤙🏻🤙🏻</font>
-## <font face="Trebuchet"> I'm  Klisman rDs 👋🏻🤓</font>
-## <font face="Trebuchet"> Developer | Data Analyst 💹</font>
+# <font face="Trebuchet"> Hi There 🏻</font>
+## <font face="Trebuchet"> I'm  Klisman rDs </font>
+## <font face="Trebuchet"> Developer | Data Science 💹</font>
 <br>
 
 <font face="Apple Chancery, cursive"></font>
