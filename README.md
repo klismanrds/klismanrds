@@ -1,4 +1,4 @@
-## <font face="Trebuchet"> Developer | Data Science 💹</font>
+## <font face="Trebuchet"> Data Science </font>
 <br>
 
 <font face="Apple Chancery, cursive"></font>
