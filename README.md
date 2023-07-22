@@ -11,10 +11,6 @@ Destaco algumas habilidades que a minha trilha profissional me proporciona:
 
 ° Habilidade no atendimento ao público;
 
-° Atuação no desenvolvimento de estratégias voltadas à automação e melhoria dos processos administrativos;
-
-° Busco me especializar na área de Data Science através de cursos, pesquisas e aprendizado de novas tecnologias, linguagens de programação e Frameworks voltados para esta área, como Python e várias bibliotecas.
-
 ° Sou uma pessoa autodidata e utilizo dessa habilidade para aprimoramento dos meus conhecimentos, buscando sempre a evolução na minha carreira profissional;
 
 ° Resiliência, propósito e paixão pela tecnologia.
