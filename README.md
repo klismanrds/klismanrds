@@ -1,19 +1,20 @@
 # <font face="Trebuchet"> Data Science </font>
 <br>
-Formando em Data Science pela Estácio de Sá, trago como experiência profissional a administração de pessoal, o atendimento humanizado, a coordenação e gestão de cursos profissionalizantes bem como a melhoria de processos administrativos dentro da minha área.
+Trago como experiência profissional a administração de pessoal, o atendimento humanizado, a coordenação e gestão de cursos profissionalizantes bem como a melhoria de processos administrativos dentro da minha área.
 
 Destaco algumas habilidades que a minha trilha profissional me proporciona:
 
-° Experiência e conhecimentos avançados em Excel;
-° Python aplicado a vários projetos
-° SQL
-° Power BI
+◽Hard skills:
+  ° Experiência e conhecimentos avançados em Excel;
+  ° Python aplicado a vários projetos em análise de dados, ciência de dados
+  ° SQL aplicado a várias aplicações criadas para otimizar os processos no trabalho
+  ° Visualização de dados (Streamlit, Power BI)
 
-° Habilidade no atendimento ao público;
-
-° Sou uma pessoa autodidata e utilizo dessa habilidade para aprimoramento dos meus conhecimentos, buscando sempre a evolução na minha carreira profissional;
-
-° Resiliência, propósito e paixão pela tecnologia.
+◽Soft skills:
+  ° Experiência no atendimento ao público
+  ° Expertise para melhoria de processos
+  ° Autodidata
+  ° Resiliência, propósito e paixão pela tecnologia.
 
 <font face="Apple Chancery, cursive"></font>
 <div style="display: inline_block">
